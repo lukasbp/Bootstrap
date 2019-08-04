@@ -1,0 +1,36 @@
+body{
+    font: 20px arial;
+}
+
+h3{
+    font: 30px arial;
+}
+
+.navbar {
+    background-color: lightskyblue;
+}
+
+.quem-somos{
+    background-color: gray;
+    color: black;
+}
+
+.margin{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.parceiros{
+    background-color: gray;
+    color: black;
+}
+
+.servicos{
+    background-color: gray;
+    color: black;
+}
+
+.bg-footer{
+    background-color: gray;
+}
+
